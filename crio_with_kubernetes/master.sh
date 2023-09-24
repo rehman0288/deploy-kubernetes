@@ -1,3 +1,5 @@
+shell.azure.com and ssh user@ip
+
 echo "********************************* Prerequisite **************************************"
 hostnamectl set-hostname master
 vim -c "g/swap/d" -c "wq" /etc/fstab
